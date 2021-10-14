@@ -13,8 +13,8 @@ public class Ex03 {
 
 		int a, b;
 
-		System.out.println(
-				"=== RECEBERÁ 2 VALORES INTEIROS E INVERTERÁ ENTRE SI AS VARIÁVEIS QUE ARMAZENAM ESSE VALOR ===");
+		System.out.println("=== RECEBERÁ 2 VALORES INTEIROS E INVERTERÁ ENTRE SI AS \n"
+				+ " VARIÁVEIS QUE ARMAZENAM ESSE VALOR ===");
 
 		System.out.println("Digite um número inteiro para armazenar na variável A:");
 		a = leitor.nextInt();

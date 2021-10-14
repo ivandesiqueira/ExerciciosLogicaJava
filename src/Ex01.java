@@ -12,8 +12,8 @@ public class Ex01 {
 		Scanner leitor = new Scanner(System.in);
 
 		int anoNascimento, idade;
-		System.out.println("Por favor insira seu ano de nascimento: ");
 
+		System.out.println("Por favor insira seu ano de nascimento: ");
 		anoNascimento = leitor.nextInt();
 
 		idade = 2021 - anoNascimento;
